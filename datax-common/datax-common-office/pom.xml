@@ -12,8 +12,13 @@
     <artifactId>datax-common-office</artifactId>
 
     <dependencies>
+<!--        <dependency>-->
+<!--            <groupId>com.aspose</groupId>-->
+<!--            <artifactId>aspose-words</artifactId>-->
+<!--            <version>${aspose.version}</version>-->
+<!--        </dependency>-->
         <dependency>
-            <groupId>com.aspose</groupId>
+            <groupId>com.luhuiguo</groupId>
             <artifactId>aspose-words</artifactId>
             <version>${aspose.version}</version>
         </dependency>
